@@ -19,7 +19,7 @@
     "vue": "^2.6.10",
     "vue-awesome": "^3.5.4",
     "vue-cli-plugin-fontawesome": "^0.2.0",
-    "vue-moment": "^4.0.0",
+    "vue-moment": "^4.1.0",
     "vue-router": "^3.0.7",
     "vuetify": "^1.5.5"
   },
